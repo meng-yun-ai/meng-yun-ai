@@ -1,16 +1,16 @@
 # MengYun AI
 
 <a href="//github.com/meng-yun-ai/meng-yun-ai/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/meng-yun-ai/meng-yun-ai?color=%09%2300BFFF&style=flat-square">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/meng-yun-ai/meng-yun-ai">
 </a>
 <a href="//github.com/meng-yun-ai/meng-yun-ai/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/meng-yun-ai/meng-yun-ai?color=Emerald%20green&style=flat-square">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/meng-yun-ai/meng-yun-ai">
 </a>
 <a href="//github.com/meng-yun-ai/meng-yun-ai/network">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/meng-yun-ai/meng-yun-ai?color=%2300BFFF&style=flat-square">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/meng-yun-ai/meng-yun-ai">
 </a>
 <a href="/LICENSE">
-    <img src="https://img.shields.io/github/license/meng-yun-ai/meng-yun-ai.svg" alt="license">
+    <img src="https://img.shields.io/github/license/meng-yun-ai/meng-yun-ai" alt="license">
 </a>
 <a href="//www.python.org">
     <img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="python">
