@@ -1,16 +1,16 @@
 # MengYun AI
 
-<a href="//github.com/LazyBoyJgn99/MengYun/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/LazyBoyJgn99/MengYun?color=%09%2300BFFF&style=flat-square">
+<a href="//github.com/meng-yun-ai/meng-yun-ai/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/meng-yun-ai/meng-yun-ai?color=%09%2300BFFF&style=flat-square">
 </a>
-<a href="//github.com/LazyBoyJgn99/MengYun/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/LazyBoyJgn99/MengYun?color=Emerald%20green&style=flat-square">
+<a href="//github.com/meng-yun-ai/meng-yun-ai/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/meng-yun-ai/meng-yun-ai?color=Emerald%20green&style=flat-square">
 </a>
-<a href="//github.com/LazyBoyJgn99/MengYun/network">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/LazyBoyJgn99/MengYun?color=%2300BFFF&style=flat-square">
+<a href="//github.com/meng-yun-ai/meng-yun-ai/network">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/meng-yun-ai/meng-yun-ai?color=%2300BFFF&style=flat-square">
 </a>
 <a href="/LICENSE">
-    <img src="https://img.shields.io/github/license/LazyBoyJgn99/MengYun.svg" alt="license">
+    <img src="https://img.shields.io/github/license/meng-yun-ai/meng-yun-ai.svg" alt="license">
 </a>
 <a href="//www.python.org">
     <img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="python">
@@ -28,7 +28,7 @@ MengYun AI 是一个由
 <span> | </span>
 <a href="https://space.bilibili.com/86928061" target="_blank">▶︎ 视频教程合集</span></a>
 <span> | </span>
-<a href="//github.com/LazyBoyJgn99/MengYun" target="_blank">🍉 GitHub</span></a>
+<a href="//github.com/meng-yun-ai/meng-yun-ai" target="_blank">🍉 GitHub</span></a>
 
 ## 直播效果
 
@@ -38,4 +38,4 @@ MengYun AI 是一个由
 
 ## ⭐️Star 经历
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LazyBoyJgn99/MengYun&type=Date)](https://star-history.com/#LazyBoyJgn99/MengYun&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=meng-yun-ai/meng-yun-ai&type=Date)](https://star-history.com/#meng-yun-ai/meng-yun-ai&Date)
