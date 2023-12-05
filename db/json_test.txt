@@ -1,0 +1,1 @@
+{"typ1_state": "True", "typ1_time": 3, "typ2_state": "True", "typ2_time": 12, "typ3_state": "True", "typ3_time": 6, "typ4_state": "True", "typ4_time": 18, "typ5_state": "True", "typ5_time": 18}
