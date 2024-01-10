@@ -32,6 +32,8 @@ MengYun AI 是一个由
 
 ## <a href="https://www.chat-chat.top/meng-yun/">下载地址</span></a>
 
+请使用 chrome 浏览器打开
+
 ## 直播效果
 
 ![image](./imgs/xiaoguo.JPG)
