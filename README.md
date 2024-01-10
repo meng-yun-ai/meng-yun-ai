@@ -30,6 +30,8 @@ MengYun AI 是一个由
 <span> | </span>
 <a href="//github.com/meng-yun-ai/meng-yun-ai" target="_blank">🍉 GitHub</span></a>
 
+## <a href="https://www.chat-chat.top/meng-yun/">下载地址</span></a>
+
 ## 直播效果
 
 ![image](./imgs/xiaoguo.JPG)
