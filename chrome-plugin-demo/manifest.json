@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Meng-yun-ai",
+  "description": "This is a Chrome extension that controls webpage clicks",
+  "version": "1.0",
+  "permissions": ["activeTab", "contentSettings", "nativeMessaging", "tabs"],
+  "action": {
+    "default_title": "Click to view a popup",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["scripts/content.js"]
+    }
+  ]
+}
